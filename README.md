@@ -7,4 +7,4 @@ Notebooks:
 2. BDAA_PROJECT_Predict_Age_Gender_Ethnicity_Vasim_Shaikh.ipynb
 
 Results:
-Please see the individual notebooks,  the project paper: Project-Report-Gr2-V0.pdf, and project presentation: Project%20Presentaion%20-%20Group%202-%20v1.2.0.pptx
+Please see the individual notebooks,  the project paper: Project-Report-Gr2-V0.pdf, and project presentation: Project Presentaion - Group 2- v1.2.0.pptx
