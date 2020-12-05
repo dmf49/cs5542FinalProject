@@ -9,4 +9,7 @@ Notebooks:
 Results:
 Please see the individual notebooks,  the project paper: Project-Report-Gr2-V0.pdf, and project presentation: Project Presentaion - Group 2- v1.2.0.pptx
 
+Youtube video link:
+https://youtu.be/JK2_qUfxvzM
+
 Datasource: https://www.kaggle.com/nipunarora8/age-gender-and-ethnicity-face-data-csv
